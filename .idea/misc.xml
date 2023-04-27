@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/drawable-v24/border_linear.xml" value="0.2075" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/drawable/bg_count.xml" value="0.2075" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/drawable/btn_bg.xml" value="0.2075" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/activity_lostandfound.xml" value="0.22" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/activity_rfid.xml" value="0.33" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/activity_rfid2.xml" value="0.2" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/content_main_rfid.xml" value="0.25" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/lost_row_putway_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/lostandfounditem.xml" value="0.33" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/layout/singlr_row_putway_data.xml" value="0.2" />
+        <entry key="..\:/Users/WAYINFOTECH/Desktop/PutawayRfid/RFIDPUTAWAY/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/drawable-v24/border_linear.xml" value="0.1445" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/drawable-v24/spinner_bg.xml" value="0.1445" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/drawable/bg_count.xml" value="0.1445" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/drawable/tv_bg.xml" value="0.1445" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/layout/activity_rfid.xml" value="0.25" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/layout/activity_rfid2.xml" value="0.2" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/layout/content_main_rfid.xml" value="0.25" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/layout/dialog_searchable_spinner.xml" value="0.33" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/layout/list_item_rfid.xml" value="0.2" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/layout/singlr_row_putway_data.xml" value="0.22" />
+        <entry key="..\:/VISHAL PROJECTS/Test/app/src/main/res/menu/menu_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
